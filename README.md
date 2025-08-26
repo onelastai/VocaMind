@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VocaMind 🧠🎙️
 
 VocaMind is a privacy-first, on-premise AI platform for analyzing customer calls. It transcribes audio, detects sentiment, flags verbal abuse, and extracts key data—all using local LLMs.
@@ -41,3 +42,6 @@ Built proudly across:
 ### 📜 License
 
 MIT — built for empowerment, not surveillance.
+=======
+# VocaMind
+>>>>>>> aff5f8ffdd77c03f4c8ace74f3edac564284f0b4
